@@ -14,7 +14,7 @@ This project is aimed to be developed for learning purpose as well as for person
 
 ### Executing program
 
-* Simply clone the or fork it for contribution
+* Simply clone the repo or fork it for contribution
 * Run npm init command
 * Run npm start command
 * Have Fun!
